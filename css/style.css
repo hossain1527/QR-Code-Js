@@ -33,3 +33,9 @@ h2 {
   color: #957711;
   font-weight: bold;
 }
+
+@media (max-width: 768px) {
+  input {
+    width: 250px;
+  }
+}
